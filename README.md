@@ -38,10 +38,10 @@ Turns single object to a datatable
 ##### IsBusinessDay()
 Returns if the DateTime *IS* a business day. *(based in UK business days)*
 
-##### BusinessDaysSince
+##### BusinessDaysSince()
 Return how many business days have occured since the DateTime provided. *(based in UK business days)*
 
-##### BusinessDaysTo
+##### BusinessDaysTo()
 Return how many business days until the DateTime provided. *(based in UK business days)*
 
 
